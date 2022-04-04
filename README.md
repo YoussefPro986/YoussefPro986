@@ -6,7 +6,7 @@
 - :speech_balloon: Ask me about accessibility, programming, cybersecurity, full stack, web, or literally anything and I'll help you out!
 - :mailbox: You can reach me with the links below
 
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white)](https://t.me/adamalston)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://t.me/adamalston)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
