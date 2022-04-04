@@ -1,5 +1,6 @@
-##### Hi, I'm Youssef Salah:
-
+<h1 align="center">Hi, I'm Youssef 👋</h1>
+<p align="center">
+  
 - 🎓I am still studying computer science and programming from Mansoura University
 - :test_tube: Finish research in programming and cybersecurity and prepare for industry transition
 - 💟 We look forward to publishing meaningful educational content
