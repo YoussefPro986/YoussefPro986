@@ -25,7 +25,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#)
 
 ##### Some of the technologies I have worked with
 
